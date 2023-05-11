@@ -13,4 +13,5 @@ to use expo you need xcode to be installed in case of macOS and android studio o
 # output
 
 
-<img src="./assets/Simulator Screen Recording - iPhone 14 Pro Max - 2023-05-10 at 11.37.29.mp4" width=100 height=100>
+<img src="./assets
+/Simulator Screenshot - iPhone 14 Pro Max - 2023-05-10 at 11.36.10.png" width=100 height=100>
