@@ -13,5 +13,9 @@ to use expo you need xcode to be installed in case of macOS and android studio o
 # output
 
 
-<img src="./assets
-/Simulator Screenshot - iPhone 14 Pro Max - 2023-05-10 at 11.36.10.png" width=100 height=100>
+
+
+https://github.com/alokranjan2594/todoList/assets/112382688/dac77ce1-2fc3-4a46-93eb-4a61e0d4f061
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-05-10 at 11 36 16](https://github.com/alokranj![Simulator Screenshot - iPhone 14 Pro Max - 2023-05-10 at 11 36 10](https://github.com/alokranjan2594/todoList/assets/112382688/6ed2aaa0-2e56-48af-9a68-45efcf3eca53)
+an2594/todoList/assets/112382688/8f6e629f-216e-4474-98f1-4b7cbdb4e422)
+
